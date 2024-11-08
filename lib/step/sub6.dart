@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
-import 'addr/home_screen.dart'; // ホーム画面をインポート
+import '../addr/home_screen.dart'; // ホーム画面をインポート
 
 // アプリのエントリポイントとなるウィジェット
 class MyApp extends HookConsumerWidget {
