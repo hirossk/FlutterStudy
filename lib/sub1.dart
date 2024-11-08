@@ -10,7 +10,8 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo', // アプリのタイトル
       theme: ThemeData(
         // テーマ設定
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple), // シードカラーから色のテーマを生成
+        colorScheme: ColorScheme.fromSeed(
+            seedColor: Colors.deepPurple), // シードカラーから色のテーマを生成
         useMaterial3: true, // Material Design 3のスタイルを使用
       ),
       home: const MyHomePage(), // ホーム画面としてMyHomePageを表示
