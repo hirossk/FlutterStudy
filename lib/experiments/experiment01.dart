@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import './experiment04.dart';
+// import 'experiment02.dart';
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
@@ -9,7 +9,8 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
       title: '最初の一歩',
-      home: Main(), // ホーム画面を表示
+      home: Text('Hello Text'),
+      // home: Main(), // ホーム画面を表示
     );
   }
 }
