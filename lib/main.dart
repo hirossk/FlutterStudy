@@ -12,14 +12,9 @@ void main() {
       home: Text('最初の一歩'), // ホーム画面を表示
     ),
     // ２歩目
+    // 他のファイルのWidgetを使って表示
     // const MyApp(),
     // ３歩目
-    // const MaterialApp(
-    //   debugShowCheckedModeBanner: false,
-    //   title: 'Stateful',
-    //   home: Text('最初の一歩'), // ホーム画面を表示
-    // ),
-    // ４歩目？
     // const ProviderScope(
     // ProviderScopeは、Riverpodの状態管理を使用するために必要
     // child: MyApp(), // MyAppというウィジェットをルートとして起動
