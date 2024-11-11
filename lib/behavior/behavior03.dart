@@ -5,6 +5,7 @@ class Counter extends StatefulWidget {
   const Counter({super.key});
 
   @override
+  // ignore: library_private_types_in_public_api
   _CounterState createState() => _CounterState();
 }
 

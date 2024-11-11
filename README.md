@@ -5,17 +5,12 @@ https://qiita.com/coka__01/items/dedb569f6357f1b503fd
 
 # app01
 
-A new Flutter project.
+statelessWidgetで画面作り
 
-## Getting Started
+inheritで画面作り（Rowやら・・・）
 
-This project is a starting point for a Flutter application.
+statefulWidgetで状態管理基礎
 
-A few resources to get you started if this is your first Flutter project:
+behavior動作に関する基礎
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+hookstepの実行
