@@ -8,7 +8,7 @@ void main() {
     // 初期状態
     const MaterialApp(
       // debugShowCheckedModeBanner: false,
-      title: 'Stateful',
+      title: 'タイトル！！',
       home: Text('最初の一歩'), // ホーム画面を表示
     ),
     // ２歩目
