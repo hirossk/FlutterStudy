@@ -11,6 +11,11 @@ inheritで画面作り（Rowやら・・・）
 
 statefulWidgetで状態管理基礎
 
+route
+で画面遷移
+
 behavior動作に関する基礎
 
 hookstepの実行
+
+もろもろ
